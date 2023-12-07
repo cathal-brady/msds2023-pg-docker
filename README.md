@@ -77,7 +77,8 @@ Then we select PostgreSQL and click on next
 ![pg_download](images/pg_dbeaver_2.png)
 
 Then we set the password field to msds2023 and we click on finish.
-If the program asks us to download drivers we click on download
+If the program asks us to download drivers we click on download.
+
 ![pg_download](images/pg_dbeaver_3.png)
 
 After this we can creat a new SQL script and start running our SQL queries.
