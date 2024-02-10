@@ -83,3 +83,11 @@ If the program asks us to download drivers we click on download.
 
 After this we can creat a new SQL script and start running our SQL queries.
 
+
+Reloading existing 
+
+docker start pgsql 
+![image](https://github.com/cathal-brady/msds2023-pg-docker/assets/144473877/182b15fe-3a84-423b-ba9e-b63f7183af92)
+
+
+
